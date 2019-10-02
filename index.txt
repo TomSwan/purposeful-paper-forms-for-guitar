@@ -1,0 +1,172 @@
+// index.txt (Please read LICENSE.txt)
+
+== _Purposeful Paper Forms for Guitar_
+
+by Tom Swan
+
+Like most, I love my iPad, my laptops, my smart-azz phone and all my other devices. I've even gotten used to reading guitar scores on my tablet and not printing them out first.
+
+But my early fantasies of doing away with paper never morphed into reality, and I've found paper copies of the blank sheet-music and other forms included with this repository especially valuable to my number one hobby, banging around on the guitar. 
+
+Maybe it's just me, but I've always thought that just by writing something down, whatever it is, I learn the subject better. I know these forms have helped me improve as a musician.
+
+image::composite.png[]
+
+If you play music as many of us developer-types do, maybe you'll get some use out of my collection, and so I'm sharing it here. It's pretty obvious how to use the forms, but I've included samples of each for hints.
+
+TIP: Click on any image to view it full screen. Click links to open the identical but higher-quality PDF documents for saving and printing.
+
+- - -
+
+// -----------------------------------------------------------------
+
+=== Blank Sheet Music
+
+With so much computer technology usually within reach, I still like to scribble rough notes with a pencil. 
+
+Even if I'm just writing down a chord sequence, I like to get it on staff paper so I can show measures, the key, and so on. And I do mean _scribble._ I don't do any fancy calligraphy, just whatever works that I can share with others and stuff in a drawer for future reference.
+
+:n: blank-staff
+:t: {n}.{x}
+.{z}
+image::{n}.{y}[width=25%, link={imagesdir}/{n}.{y}]
+*`{t}`*: link:{x}/{t}[Open]
+
+I created the blank staff PDF here for myself years ago using the music typesetting program _Finale._ There's nothing much to it, just a single page with eight systems of unadorned staff lines. I always keep a bunch of them around.
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+==== Sample
+
+The figure shows a sample of a _lead sheet_ -- a simple type of score that usually shows only the melody and chords for a song rather than a full arrangement -- for the traditional song "Star of the County Down." 
+
+:n: star-of-the-county-down
+:t: {n}.{x}
+.{z}
+image::{n}.{y}[width=25%, link={imagesdir}/{n}.{y}]
+
+- - -
+
+// -----------------------------------------------------------------
+
+=== Blank Staff With Tab
+
+Guitar tablature is, for me, just another means to a common end -- preserving and sharing music with others. I read traditional music fairly well, so I don't use tabs very often, but one advantage is that tablature is unambiguous where traditional scores may raise questions -- where on the fretboard, for example, to play a particular line or chord. With tabs, that's always clear.
+
+:n: blank-staff-with-tab
+:t: {n}.{x}
+.{z}
+image::{n}.{y}[width=25%, link={imagesdir}/{n}.{y}]
+*`{t}`*: link:{x}/{t}[Open]
+
+I created the blank form shown here for sharing scores and licks with friends who don't read traditional music. It's the same as the plain blank score, but with an additional system of tablature where you can write down fretboard fingerings.
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+==== Sample
+
+Following is a sample of the form in use, showing a work sheet I made while exploring diminished scales. Play a G7 arpeggio -- the diminished arpeggio is a half step below all notes except the root. Try playing the arpeggios together -- up one and down the other -- for a really cool jazzy sound.
+
+:n: diminished-scale-from-g7-arp
+:t: {n}.{x}
+.{z}
+image::{n}.{y}[width=25%, link={imagesdir}/{n}.{y}]
+
+NOTE: The small 8 under the treble clef indicates to pianists that they must lower the notes of a score an octave to match the guitar. This is because, in standard tuning, a guitar's middle C is, on the piano, C _below_ middle C.
+
+- - -
+
+// -----------------------------------------------------------------
+
+=== Chord Diagrams With Tab
+
+I use this page more than any other of my fill-in-the-blank forms. There are eight identical repeating sections, each with a blank chord chart, a treble clef staff, and a matching tablature system. You might fill the page with chords of a certain type (inversions of chord type, for example), or use it to explore similarities between chord shapes.
+
+:n: chord-diagrams-with-tab
+:t: {n}.{x}
+.{z}
+image::{n}.{y}[width=25%, link={imagesdir}/{n}.{y}]
+*`{t}`*: link:{x}/{t}[Open]
+
+One way to make practical use of this page is to grab one when you encounter an unfamiliar chord in a song that you are learning. When that happens to me, I fill in this form with inversions of the chord -- just writing down the notes helps reinforce my memory of how to play the chord, and also helps me to focus on the notes (chord tones) so I can play the same chord in different inversions more easily.
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+==== Sample
+
+In the sample that follows, "Drop-2 Voicings for C7," you'll see that I try to include as much information about a chord as I can, its scale, and the intervals between notes -- whether there's a minor 3rd, for example, or a flat 7. I like to write this information at the top of the page and also below each chord chart, showing the fingerings. The Roman numeral at left shows the relative fret where the chord is to be played. Because the tab lines are so close together, I write the tablature as a melody although the notes are to be played together.
+
+:n: drop-2-voicings-c7
+:t: {n}.{x}
+.{z}
+image::{n}.{y}[width=25%, link={imagesdir}/{n}.{y}]
+
+IMPORTANT: *_Tid Bit:_* Fact: Using a pic, it is _impossible_ to play a chord on the guitar! No matter how fast you strum, with a pick you are still playing _one note after the other._ So, technically, that's an arpeggio. You can only truly play a _chord,_ in which all notes are played simultaneously, with your fingers.
+
+- - -
+
+// -----------------------------------------------------------------
+
+=== Fretboard With Tab
+
+I made up this form for diagramming multi-octave scales and runs, notated in three ways: graphically on a representation of a guitar fretboard (top), as a traditional score (middle), and in tablature (bottom). There are two such sections on every page.
+
+NOTE: The fretboard diagrams here extend to the 19th fret because that's traditionally the highest playable position on a classical guitar.
+
+:n: fretboard-with-tab
+:t: {n}.{x}
+.{z}
+image::{n}.{y}[width=25%, link={imagesdir}/{n}.{y}]
+*`{t}`*: link:{x}/{t}[Open]
+
+I am often asked how one plays scales quickly between high and low positions as anybody who's been to a rock concert knows that skilled guitar players love to do when soloing. One way to learn how to get around the fretboard more easily is to combine familiar patterns. Find the notes that each scale pattern shares, and then move in and out of your familiar shapes by playing the common notes.
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+==== Sample
+
+There must be billions of ways to play scales this way! While I was learning to play my scales, I made up diagrams like the following sample of a 3-octave G-minor pentatonic (five-note) scale.
+
+:n: three-octave-pentatonics-gm
+:t: {n}.{x}
+.{z}
+image::{n}.{y}[width=25%, link={imagesdir}/{n}.{y}]
+
+TIP: Don't try to just memorize entire patterns like this. Break it into small sections of only a few notes, learn those pieces, and then join them together.
+
+- - -
+
+// -----------------------------------------------------------------
+
+=== Scale Fingering
+
+Starting with a copy of the preceding page, I divided the fretboard and associated score systems into four sections. This page is my second-most used form in practice. I use it to record scale fingering patterns _in position_ (within a six-fret span).
+
+This page proved invaluable in my learning traditional scales, and perhaps it will help you too if that's one of your goals.
+
+:n: scale-fingering
+:t: {n}.{x}
+.{z}
+image::{n}.{y}[width=25%, link={imagesdir}/{n}.{y}]
+*`{t}`*: link:{x}/{t}[Open]
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+==== Sample
+
+The following example of the "Scale Fingering" form shows three ways to play an A major scale starting with the root note on the sixth (low E) string but using different starting fingers.
+
+:n: a-major-scale
+:t: {n}.{x}
+.{z}
+image::{n}.{y}[width=25%, link={imagesdir}/{n}.{y}]
+
+As I was taught years ago, I include in my scales all notes that are reachable _in position,_ meaning within a hand's width but with one-fret extensions ("x") allowed at either side (fingers 1 and 4). Circled positions show the root notes. When learning scales, practice to and from _each_ root in turn before attempting to learn the entire pattern. _Divide and Conquer!_
+
+- - -
+
+Website: http://www.tomswan.com
+
+Github: https://github.com/TomSwan/purposeful-paper-forms-for-guitar
+
+Raw Text: link:{source}
