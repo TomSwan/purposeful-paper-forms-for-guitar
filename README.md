@@ -8,7 +8,7 @@ But my early fantasies of doing away with paper never morphed into reality, and 
 
 Maybe it's just me, but I've always thought that just by writing something down, whatever it is, I learn the subject better. I know these forms have helped me improve as a musician.
 
-![image](composite.png)
+![image](image/composite.png)
 
 ## Continue reading...
 
