@@ -167,6 +167,6 @@ As I was taught years ago, I include in my scales all notes that are reachable _
 
 Website: http://www.tomswan.com
 
-Github: https://github.com/TomSwan/purposeful-paper-forms-for-guitar
+GitHub: https://github.com/TomSwan/purposeful-paper-forms-for-guitar
 
 Raw Text: link:{source}
