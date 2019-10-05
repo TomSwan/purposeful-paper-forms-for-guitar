@@ -12,7 +12,7 @@ Maybe it's just me, but I've always thought that just by writing something down,
 
 ## Continue reading...
 
-http://tomswan.com/pub/purposeful-paper-forms-for-guitar/
+http://tomswan.com/articles/purposeful-paper-forms-for-guitar.html
 
 ## Using the Files
 
