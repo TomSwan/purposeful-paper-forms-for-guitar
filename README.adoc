@@ -1,3 +1,5 @@
+// README.adoc
+
 = Purposeful Paper Forms for Guitar
 
 Like most, I love my iPad, my laptops, my smart-azz phone and all my other devices. I've even gotten used to reading guitar scores on my tablet and not printing them out first.
@@ -8,9 +10,15 @@ Maybe it's just me, but I've always thought that just by writing something down,
 
 image::image/composite.png[]
 
+// -----------------------------------------------------------------
+
 == Continue reading...
 
 http://tomswan.com/articles/purposeful-paper-forms-for-guitar.html
+
+- - -
+
+// -----------------------------------------------------------------
 
 == Using the Files
 
@@ -21,6 +29,10 @@ Browse the full article to view and print my blank forms and read about how I us
 PS: If anybody wants to submit a form, I'll include it in the collection.
 
 Run make to build the article web page, which you can view at http://tomswan.com/pub/purposeful-paper-forms-for-guitar/
+
+- - -
+
+// -----------------------------------------------------------------
 
 == More Information
 
