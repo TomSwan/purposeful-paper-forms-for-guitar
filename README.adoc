@@ -14,7 +14,7 @@ image::image/composite.png[]
 
 == Continue reading...
 
-http://tomswan.com/articles/purposeful-paper-forms-for-guitar.html
+https://tomswan.com/articles/purposeful-paper-forms-for-guitar.html
 
 - - -
 
@@ -28,7 +28,7 @@ Browse the full article to view and print my blank forms and read about how I us
 
 PS: If anybody wants to submit a form, I'll include it in the collection.
 
-Run make to build the article web page, which you can view at http://tomswan.com/pub/purposeful-paper-forms-for-guitar/
+Run make to build the article web page, which you can view at https://tomswan.com/pub/purposeful-paper-forms-for-guitar/
 
 - - -
 
@@ -40,7 +40,7 @@ For more stuff, browse my repositories on GitHub. It's where I store all of my d
 
 Please also follow the links below to visit my web site and YouTube channel. Write to me at tom@tomswan.com. Good luck!
 
-Website: http://www.tomswan.com
+Website: https://www.tomswan.com
 
 GitHub: https://github.com/TomSwan
 
